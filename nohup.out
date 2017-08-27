@@ -1,0 +1,88 @@
+INFO: loading config from /home/xiaoquan/Downloads/shadowsocks/shadowsocks.json
+2017-08-27 20:33:08 INFO     loading libcrypto from libcrypto.so.1.0.0
+2017-08-27 20:33:08 INFO     starting local at 127.0.0.1:1080
+2017-08-27 20:33:11 INFO     connecting clients2.google.com:443 from 127.0.0.1:50542
+2017-08-27 20:33:13 INFO     connecting clients2.google.com:443 from 127.0.0.1:50544
+2017-08-27 20:33:17 INFO     connecting clients2.google.com:443 from 127.0.0.1:50546
+2017-08-27 20:33:17 INFO     connecting android.clients.google.com:443 from 127.0.0.1:50548
+2017-08-27 20:33:18 INFO     connecting www.google.com:443 from 127.0.0.1:50550
+2017-08-27 20:33:19 INFO     connecting www.google.com:443 from 127.0.0.1:50552
+2017-08-27 20:33:20 INFO     connecting www.google.com:443 from 127.0.0.1:50554
+2017-08-27 20:33:21 INFO     connecting www.google.com:443 from 127.0.0.1:50556
+2017-08-27 20:33:21 INFO     connecting www.google.com:443 from 127.0.0.1:50558
+2017-08-27 20:33:21 INFO     connecting www.google.com:443 from 127.0.0.1:50560
+2017-08-27 20:33:22 INFO     connecting www.google.com:443 from 127.0.0.1:50562
+2017-08-27 20:33:22 INFO     connecting www.google.com:443 from 127.0.0.1:50564
+2017-08-27 20:33:22 INFO     connecting www.google.com:443 from 127.0.0.1:50566
+2017-08-27 20:33:22 INFO     connecting www.google.com:443 from 127.0.0.1:50568
+2017-08-27 20:33:22 INFO     connecting www.google.com:443 from 127.0.0.1:50570
+2017-08-27 20:33:23 INFO     connecting mtalk.google.com:443 from 127.0.0.1:50572
+2017-08-27 20:33:25 INFO     connecting clients2.google.com:443 from 127.0.0.1:50576
+2017-08-27 20:33:39 INFO     connecting clients2.google.com:443 from 127.0.0.1:50578
+2017-08-27 20:33:59 INFO     connecting android.clients.google.com:443 from 127.0.0.1:50580
+2017-08-27 20:34:03 INFO     connecting www.google.com:443 from 127.0.0.1:50582
+2017-08-27 20:34:10 INFO     connecting clients2.google.com:443 from 127.0.0.1:50584
+2017-08-27 20:34:12 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:50586
+2017-08-27 20:34:33 INFO     connecting clients5.google.com:443 from 127.0.0.1:50590
+2017-08-27 20:34:33 INFO     connecting www.google.com:443 from 127.0.0.1:50592
+2017-08-27 20:34:33 INFO     connecting ogs.google.com:443 from 127.0.0.1:50594
+2017-08-27 20:34:33 INFO     connecting mtalk.google.com:443 from 127.0.0.1:50596
+2017-08-27 20:34:33 INFO     connecting www.google.com:443 from 127.0.0.1:50618
+2017-08-27 20:34:33 INFO     connecting accounts.google.com:443 from 127.0.0.1:50620
+2017-08-27 20:34:33 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:50622
+2017-08-27 20:34:36 INFO     connecting id.google.com:443 from 127.0.0.1:50692
+2017-08-27 20:34:36 INFO     connecting apis.google.com:443 from 127.0.0.1:50696
+2017-08-27 20:34:36 INFO     connecting notifications.google.com:443 from 127.0.0.1:50700
+2017-08-27 20:34:36 INFO     connecting play.google.com:443 from 127.0.0.1:50702
+2017-08-27 20:34:41 INFO     connecting fonts.gstatic.com:443 from 127.0.0.1:50720
+2017-08-27 20:34:42 INFO     connecting play.google.com:443 from 127.0.0.1:50724
+2017-08-27 20:34:42 INFO     connecting play.google.com:443 from 127.0.0.1:50728
+2017-08-27 20:35:05 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:35:05 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:35:05 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:35:05 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:35:05 INFO     connecting clients1.google.com:443 from 127.0.0.1:50764
+2017-08-27 20:35:08 INFO     connecting clients2.google.com:443 from 127.0.0.1:50776
+2017-08-27 20:35:39 INFO     connecting google.com:443 from 127.0.0.1:50802
+2017-08-27 20:35:46 INFO     connecting clients4.google.com:443 from 127.0.0.1:50822
+2017-08-27 20:35:56 INFO     connecting android.clients.google.com:443 from 127.0.0.1:50830
+2017-08-27 20:39:42 INFO     connecting play.google.com:443 from 127.0.0.1:50868
+2017-08-27 20:39:43 INFO     connecting notifications.google.com:443 from 127.0.0.1:50872
+2017-08-27 20:39:43 INFO     connecting play.google.com:443 from 127.0.0.1:50878
+2017-08-27 20:39:43 INFO     connecting play.google.com:443 from 127.0.0.1:50876
+2017-08-27 20:39:43 INFO     connecting play.google.com:443 from 127.0.0.1:50880
+2017-08-27 20:39:52 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:50892
+2017-08-27 20:44:56 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:50930
+2017-08-27 20:45:00 INFO     connecting clients4.google.com:443 from 127.0.0.1:50936
+2017-08-27 20:45:00 INFO     connecting accounts.google.com:443 from 127.0.0.1:50940
+2017-08-27 20:45:01 INFO     connecting accounts.google.com:443 from 127.0.0.1:50944
+2017-08-27 20:49:07 INFO     connecting clients5.google.com:443 from 127.0.0.1:51050
+2017-08-27 20:49:07 INFO     connecting notifications.google.com:443 from 127.0.0.1:51052
+2017-08-27 20:49:07 INFO     connecting www.google.com:443 from 127.0.0.1:51048
+2017-08-27 20:49:07 INFO     connecting ogs.google.com:443 from 127.0.0.1:51054
+2017-08-27 20:49:07 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:51056
+2017-08-27 20:49:07 INFO     connecting www.gstatic.com:443 from 127.0.0.1:51058
+2017-08-27 20:49:08 INFO     connecting www.google.com:443 from 127.0.0.1:51072
+2017-08-27 20:49:08 INFO     connecting www.google.com:443 from 127.0.0.1:51076
+2017-08-27 20:49:08 INFO     connecting www.google.com:443 from 127.0.0.1:51080
+2017-08-27 20:49:12 INFO     connecting www.google.com:443 from 127.0.0.1:51086
+2017-08-27 20:49:12 INFO     connecting ssl.gstatic.com:443 from 127.0.0.1:51090
+2017-08-27 20:49:15 INFO     connecting fonts.gstatic.com:443 from 127.0.0.1:51094
+2017-08-27 20:49:15 INFO     connecting play.google.com:443 from 127.0.0.1:51096
+2017-08-27 20:49:17 INFO     connecting play.google.com:443 from 127.0.0.1:51102
+2017-08-27 20:49:21 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:21 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:21 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:21 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:21 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:21 INFO     connecting clients5.google.com:443 from 127.0.0.1:51108
+2017-08-27 20:49:23 INFO     connecting id.google.com:443 from 127.0.0.1:51112
+2017-08-27 20:49:30 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:30 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:30 INFO     connecting fonts.gstatic.com:443 from 127.0.0.1:51116
+2017-08-27 20:49:34 ERROR    [Errno 104] Connection reset by peer
+2017-08-27 20:49:34 INFO     connecting clients1.google.com:443 from 127.0.0.1:51200
+2017-08-27 20:54:30 INFO     connecting play.google.com:443 from 127.0.0.1:51548
+2017-08-27 20:54:31 INFO     connecting notifications.google.com:443 from 127.0.0.1:51552
+2017-08-27 20:59:31 WARNING  timed out: mtalk.google.com:5228
+2017-08-27 20:59:31 INFO     connecting mtalk.google.com:5228 from 127.0.0.1:51584
